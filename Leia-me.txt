@@ -1,0 +1,8 @@
+Olá a todos, desenvolvi este projeto para ajudar monitorar os serços rodando em rede.
+
+Para efetuar a instalação basta importar o arquivo config\status.sql e passar os parametros do banco no arquivo
+config\config.php 
+
+O susário e senha para acesso ao sistema é:
+user: test
+pass: test
